@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jinpag/NpmPackageSample/issues"
   },
-  "homepage": "https://github.com/jinpag/NpmPackageSample#readme"
+  "homepage": "https://github.com/jinpag/NpmPackageSample#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
 }
